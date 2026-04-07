@@ -1,0 +1,9 @@
+supplier_id,supplier_name,reliability_score,avg_delivery_days,region
+S01,Supplier_A,0.97,6,East
+S02,Supplier_B,0.89,4,North
+S03,Supplier_C,0.97,13,Central
+S04,Supplier_D,0.95,9,South
+S05,Supplier_E,0.83,4,East
+S06,Supplier_F,0.73,2,North
+S07,Supplier_G,0.81,4,South
+S08,Supplier_H,0.89,6,South
